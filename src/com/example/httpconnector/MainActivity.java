@@ -72,7 +72,7 @@ public class MainActivity extends Activity implements OnClickListener{
     	
     	case R.id.button2:
     	//do stuff
-    	println (URL);	
+    	//println (URL);	
     	break;
     	}
     	GetXMLTask task = new GetXMLTask();
