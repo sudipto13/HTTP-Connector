@@ -1,0 +1,3 @@
+This is a  simple ANDROID application that uses the APACHE http client to connect to a server.
+
+Alpha: Currently functionality to do a HTTP GET
